@@ -1,0 +1,2 @@
+Prefix plugins/SOM/example/
+Plugin SOM inputfile parameters.train.txt outputfile output.rds
